@@ -5,6 +5,7 @@ const path = require("path");
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base:"/breast-calculator/",
   plugins: [vue()],
   resolve: {
     extensions: ['.mjs', '.js', '.ts', '.jsx', '.tsx', '.json', '.vue'],
