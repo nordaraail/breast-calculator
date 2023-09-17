@@ -117,14 +117,15 @@ const state = {
       disclamier: {
         text: `
         <p>
-        This calculator is aimed to provide physicians with a tool to calculate survival benefit from postmastectomy radiotherapy in breast cancer patients with one to three positive axillary lymph nodes. The calculator is free for personal use only. No permission to distribute this calculator for any commercial purpose. 
+        This calculator is designed to provide physicians with a tool to calculate the survival benefit of postoperative radiotherapy for patients with ductal carcinoma in situ after breast-conserving surgery. The calculator is free for personal use only. There is no permission to distribute this calculator for any commercial purpose.
 </p>
 <p>
-We emphasize that the purpose of this tool is to inform physicians and that the calculate should not be used for direct decision support. We have made every effort to ensure that the calculator provided here is accurate. However, the probability estimates by the calculator may differ from those found in current clinical practice. In addition, a patient's prognosis may depend on other factors than those taken into account here. Thus, any decisions concerning patient care should not be based only on the use of the calculator, but should also take into account the patient's past history and other current patient and tumor characteristics. As medical science is constantly changing and human error is always possible, the information contained in the prediction tools may be outdated, incomplete or incorrect.
+We emphasize that the purpose of this tool is to inform physicians and that the calculator should not be used for direct decision support. We have made every effort to ensure that the calculator provided here is accurate. However, the probability estimates by the calculator may differ from those found in current clinical practice. In addition, a patient's prognosis may depend on other factors than those taken into account here. Thus, any decisions regarding patient care should not be based solely on the use of our calculator, while the patient's history and other current patient and tumor characteristics should also be taken into account. As medical science is constantly changing and human error is always possible, the information contained in the prediction tools may be outdated, incomplete, or incorrect.
 </P>
 <p>
-By proceeding with use of the model, the user agrees that they have read and agreed with these terms.
+By continuing to use the model, the user agrees that they have read and agreed to these terms.
 </P>
+
         `,
         title: 'Disclamier',
         dontShowAgain: `Non't show this agien`,
