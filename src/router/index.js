@@ -1,6 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import Home from "@/views/Home.vue";
+import Home from "@/views/home.vue";
 import Layout from '@/layouts/HeaderAsideLayout/index.js'
 import Calculator from '@/views/calculator.vue'
 import Result from '@/views/result.vue'
