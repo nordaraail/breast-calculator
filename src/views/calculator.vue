@@ -27,9 +27,9 @@
           v-model="tumorSize"
           class="form-item-components"
         >
-          <el-radio label="T1">0~2cm</el-radio>
-          <el-radio label="T2">2~5cm</el-radio>
-          <el-radio label="T3">>5cm</el-radio>
+          <el-radio label="T1">0~20mm</el-radio>
+          <el-radio label="T2">2~5mm</el-radio>
+          <el-radio label="T3">>5mm</el-radio>
         </el-radio-group>
       </div>
 
@@ -41,9 +41,9 @@
           v-model="grade"
           class="form-item-components"
         >
-          <el-radio label="grade1">High</el-radio>
-          <el-radio label="grade2">Moderate</el-radio>
-          <el-radio label="grade3">Low</el-radio>
+          <el-radio label="grade1">1</el-radio>
+          <el-radio label="grade2">2</el-radio>
+          <el-radio label="grade3">3</el-radio>
         </el-radio-group>
 
       </div>
