@@ -13,8 +13,8 @@
           class="form-item-components"
         >
           <el-radio label="lessThan60">≤60</el-radio>
-          <el-radio label="between60and70">60~70</el-radio>
-          <el-radio label="between70and80">70~80</el-radio>
+          <el-radio label="between60and70">61~70</el-radio>
+          <el-radio label="between70and80">71~80</el-radio>
           <el-radio label="moreThan80">>80</el-radio>
         </el-radio-group>
       </div>
