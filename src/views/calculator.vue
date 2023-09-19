@@ -27,9 +27,9 @@
           v-model="tumorSize"
           class="form-item-components"
         >
-          <el-radio label="T1">0~20mm</el-radio>
-          <el-radio label="T2">2~5mm</el-radio>
-          <el-radio label="T3">>5mm</el-radio>
+          <el-radio label="T1">≤2mm</el-radio>
+          <el-radio label="T2">2~10mm</el-radio>
+          <el-radio label="T3">>10mm</el-radio>
         </el-radio-group>
       </div>
 
